@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8659
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21505#Will-WeatherhelmThe-Yarn-of-an-Old-Sailor
 gutenberg_issued: '2007-05-16'
 gutenberg_type: Text
 identifiers:
